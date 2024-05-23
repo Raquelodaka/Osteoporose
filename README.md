@@ -44,6 +44,9 @@ Na base de Dados os Dados informados estão bem equiparados
 
 Conforme podemos verificar nas colunas da base de Dados, podemos aferir que todos os casos inseridos não há diferenças abruptas entre um dado e outro.
 
+Porém, ao verificar a coluna idade vemos desproporção muito grande até os 40 anos
+![Idade](Imagens/Basededadosidades.ong.png)
+
 Nesse Caso, não há necessidade em popularmos ou deletarmos dados para que o estudo fique mais equiparado (afinal, para haver comparação deve-se ser justo =D ).
 
 ### O que podemos aferir com a Base de Dados
